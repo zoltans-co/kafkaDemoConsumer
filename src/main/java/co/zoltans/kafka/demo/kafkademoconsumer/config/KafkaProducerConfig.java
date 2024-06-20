@@ -1,6 +1,6 @@
-package co.zoltans.kafka.demo.kafkademoaggregator.config;
+package co.zoltans.kafka.demo.kafkademoconsumer.config;
 
-import co.zoltans.kafka.demo.kafkademoaggregator.message.PublicationAnalytics;
+import co.zoltans.kafka.demo.kafkademoconsumer.message.PublicationAnalytics;
 import org.apache.kafka.clients.producer.ProducerConfig;
 import org.apache.kafka.common.serialization.StringSerializer;
 import org.springframework.beans.factory.annotation.Value;

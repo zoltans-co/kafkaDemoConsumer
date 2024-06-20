@@ -1,4 +1,4 @@
-package co.zoltans.kafka.demo.kafkademoaggregator.message;
+package co.zoltans.kafka.demo.kafkademoconsumer.message;
 
 public record PublicationAnalytics(String title,
                                    String author,
